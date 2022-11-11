@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game development
 - 🌱 I have 5 years experience in cocos2d game engine.
 - 🌱 I’m currently learning Unity3D
-- 💞️ I’m looking to collaborate on Unity3D projecy
+- 💞️ I’m looking to collaborate on Unity3D project
 - 📫 How to reach me zoayed.riyadh@gmail.com
 
 <!---
